@@ -24,10 +24,8 @@
 ## TRACK:
 
 * Q: What is TRACK?
-
-     * Track is actually the ladder on which we take a step forward to reach to the top
      
-     * Each one of us in the team who are in the project is representing each step.
+     * Each one of us in the team who are in the project is representing each step in the track.
      
      * By team work we'll build a proper track.
      
@@ -38,6 +36,8 @@
  
 * Q: What is ASSIST?
 
+     * The ladder on which we take a step forward to reach to the top.
+     
      * All team members are working on their step to get the project done on time.
      
      * How each one of you are assisting the track.
