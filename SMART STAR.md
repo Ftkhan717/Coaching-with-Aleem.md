@@ -1,13 +1,19 @@
 # SMART STAR METHOD:
-* S stands for Specific
-* M stands for Measurable
-* A stands for Achievable
-* R stands for Realistic 
-* T stands for Timely 
-* S stands for Space
-* T stands for Track 
-* A stands for Assist
-* R stands for Reach
+
+* SMART:
+
+    * S stands for Specific
+    * M stands for Measurable 
+    * A stands for Achievable
+    * R stands for Realistic 
+    * T stands for Timely 
+    
+* STAR:    
+    
+    * S stands for Space
+    * T stands for Track 
+    * A stands for Assist
+    * R stands for Reach
  
  ## SPACE:
 
