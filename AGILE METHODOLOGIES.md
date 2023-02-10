@@ -36,7 +36,7 @@
      
      * The team will be successful if they have an adaptive personality.
 
-## ALL TEAMS SHOULD FOLLOW THESE THINGS WHO ARE USING AGILE METHODOLOGY:
+## ALL TEAMS SHOULD FOLLOW THESE STEPS WHO ARE USING AGILE METHODOLOGY:
 
 * Culture of wrking together with honesty, integrity and passion. THey are tthe foundation of agility.
 
